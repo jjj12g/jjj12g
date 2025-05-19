@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 🧑‍💻 홍진원 포트폴리오 | Unreal Client Developer
 
 안녕하세요! 추리소설을 좋아하던 소년이 이제는 버그를 추리하고 해결하는 개발자로 성장했습니다.  
@@ -18,13 +16,15 @@ C++과 Unreal Engine을 기반으로 게임을 만들고, 문제를 해결하며
 
 ## 🔧 기술 스택
 
-| 분야 | 상세 |
-|------|------|
-| **언어** | C++ (객체지향 설계, 상속/다형성/추상화 등) |
-| **엔진** | Unreal Engine 5 (C++ 및 블루프린트 연동, Listen 서버 경험, Behavior Tree 등) |
-| **툴** | Visual Studio, GitHub, Blender(기본) |
-| **UI** | User Widget Blueprint |
-| **기타** | DataTable 기반 캐릭터 설정, Sequence/Post Process/StatComponent 활용 등 |
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Blueprint](https://img.shields.io/badge/Blueprint-005BBB?style=flat-square&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-white?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ---
 

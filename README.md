@@ -37,7 +37,7 @@ C++과 Unreal Engine을 기반으로 게임을 만들고, 문제를 해결하며
   - 스킬 툴 제작 (DataTable 기반)
   - 스킬 매니저 클래스 제작
   - 스킬 ID 탐색 후 자동 스폰 구현
-- 🔗 GitHub 링크 (추후 삽입)
+- 🔗 [GitHub 링크](https://github.com/jjj12g/Projects-worked/tree/main)
 
 ---
 
@@ -59,7 +59,7 @@ C++과 Unreal Engine을 기반으로 게임을 만들고, 문제를 해결하며
   - 턴제 시스템 개발 (Speed 기반)
   - AI 이동 (A* + BehaviorTree)
   - 카드 기반 플레이어 이동
-- 🔗 GitHub 링크 (추후 삽입)
+- 🔗 [GitHub 링크](https://github.com/jjj12g/Projects-worked/tree/main)
 
 ---
 
@@ -67,16 +67,6 @@ C++과 Unreal Engine을 기반으로 게임을 만들고, 문제를 해결하며
 - Quaternion 회전 문제 해결 (Lerp → 직접 Quaternion 계산)
 - 협업 중 빌드 에러 해결 및 기술 공유
 - 리스폰 시스템 최적화로 성능 향상
-
----
-
-## 📽️ 시연 영상 / 스크린샷
-> (YouTube 또는 GIF 삽입 예정)
-
----
-
-## 📌 기타 링크
-- 📁 포트폴리오 PPT 다운로드 (추후 링크 삽입)
 
 ---
 

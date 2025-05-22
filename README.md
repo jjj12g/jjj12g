@@ -49,6 +49,7 @@ C++과 Unreal Engine을 기반으로 게임을 만들고, 문제를 해결하며
   - 경험치 및 레벨업 시스템
   - 오브젝트 풀링을 활용한 리스폰 최적화
 - 🔗 [GitHub 링크](https://github.com/jjj12g/Projects-worked/tree/main)
+- 📺 [시연 영상](https://youtu.be/dTg1YzLe-YY)
 
 ---
 
